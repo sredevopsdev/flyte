@@ -27,7 +27,7 @@ require (
 	golang.org/x/time v0.1.0
 	golang.org/x/tools v0.6.0
 	google.golang.org/grpc v1.56.1
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 	gorm.io/gorm v1.22.4
 	gotest.tools v2.2.0+incompatible
 	k8s.io/api v0.20.2
